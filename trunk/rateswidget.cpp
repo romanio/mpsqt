@@ -1,3 +1,4 @@
+// Test
 #include "rateswidget.h"
 #include "ui_rateswidget.h"
 
